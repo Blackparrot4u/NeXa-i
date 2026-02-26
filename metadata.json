@@ -1,0 +1,5 @@
+{
+  "name": "NeXa AI Chat",
+  "description": "A futuristic personal AI assistant named NeXa, created by Md Farhan, designed to help users across various domains with intelligence and empathy.",
+  "requestFramePermissions": ["microphone"]
+}
