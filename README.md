@@ -1,2 +1,2 @@
 # NeXa-i
-A Ai assistant
+An Ai assistant
